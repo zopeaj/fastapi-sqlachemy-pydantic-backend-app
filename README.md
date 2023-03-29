@@ -20,6 +20,10 @@ Complete login registration backend system using Spring Boot.
 ### Postman
 ![Screenshot 2021-01-13 at 23 37 57](https://user-images.githubusercontent.com/40702606/104790087-7a137480-578e-11eb-8141-307a8850c39e.png)
 
+## Example using qrcode api
+### Web Browser
+![qrcode-data](https://user-images.githubusercontent.com/59841476/228507677-e3f00dd6-4bf7-4a9c-a2e3-23666ae94598.png)
+
 ### CURL
 ```
 curl --location --request POST 'localhost:8080/api/v1/registration' \
